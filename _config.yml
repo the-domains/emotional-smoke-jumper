@@ -2,12 +2,13 @@ name: Emotional Smoke Jumper
 favicon: null
 layout_spectrum: 0.7935804177541286
 typography_spectrum: 0.16264441306702793
+title: Emotional Smoke Jumper
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-51531154-1
   facebook: null
   twitter: null
 opengraph:
