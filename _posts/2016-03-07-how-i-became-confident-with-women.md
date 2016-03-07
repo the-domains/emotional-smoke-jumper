@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: I was asked the secret to great relationships and confidence in the bedroom. My own answers surprised me.
-datePublished: '2016-03-07T00:01:08.180Z'
-dateModified: '2016-03-06T23:55:03.919Z'
+description: ''
+datePublished: '2016-03-07T02:26:54.839Z'
+dateModified: '2016-03-07T02:26:42.417Z'
 title: How I Became Confident With Women
 author: []
+sourcePath: _posts/2016-03-07-how-i-became-confident-with-women.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-how-i-became-confident-with-women.md
-published: true
 url: how-i-became-confident-with-women/index.html
 _type: Article
 
