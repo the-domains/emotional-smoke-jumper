@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Not all arrogance is the same.
-datePublished: '2016-03-07T02:12:28.390Z'
-dateModified: '2016-03-07T02:12:14.160Z'
+description: "I’m not naming any names. Instead I'm just going to leave this here in case you happen to know someone who could benefit greatly if this article were to somehow show up in their newsfeed."
+datePublished: '2016-03-07T02:27:17.018Z'
+dateModified: '2016-03-07T02:17:50.841Z'
 title: 4 Flavors of Cocky
 author: []
 sourcePath: _posts/2016-03-07-4-flavors-of-cocky.md
