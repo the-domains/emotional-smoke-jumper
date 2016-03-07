@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "I’m not naming any names. Instead I'm just going to leave this here in case you happen to know someone who could benefit greatly if this article were to somehow show up in their newsfeed."
-datePublished: '2016-03-07T02:34:57.988Z'
-dateModified: '2016-03-07T02:31:52.135Z'
+description: "Instead I'm just going to leave this here in case you know someone who needs this article to show up in their newsfeed..."
+datePublished: '2016-03-07T07:16:29.659Z'
+dateModified: '2016-03-07T07:16:19.401Z'
 title: 4 Flavors of Cocky
 author: []
 sourcePath: _posts/2016-03-07-4-flavors-of-cocky.md
