@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Take commerce out of your sex to improve it. But once that's established... let the games begin!"
-datePublished: '2016-03-07T00:01:08.196Z'
-dateModified: '2016-03-07T00:00:12.007Z'
+description: ''
+datePublished: '2016-03-07T02:26:42.315Z'
+dateModified: '2016-03-07T02:26:41.657Z'
 title: 'Sex As A Bargaining Chip: The Bad, The Good, And The Very Naughty'
 author: []
+sourcePath: _posts/2016-03-07-sex-as-a-bargaining-chip-the-bad-the-good-and-the-very-na.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-sex-as-a-bargaining-chip-the-bad-the-good-and-the-very-na.md
-published: true
 url: sex-as-a-bargaining-chip-the-bad-the-good-and-the-very-na/index.html
 _type: Article
 
