@@ -6,35 +6,32 @@ inLanguage: null
 starred: false
 keywords: []
 description: Not all arrogance is the same.
-datePublished: '2016-03-07T00:01:08.262Z'
-dateModified: '2016-03-06T23:51:52.277Z'
+datePublished: '2016-03-07T02:12:28.390Z'
+dateModified: '2016-03-07T02:12:14.160Z'
 title: 4 Flavors of Cocky
 author: []
+sourcePath: _posts/2016-03-07-4-flavors-of-cocky.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-4-flavors-of-cocky.md
-published: true
 url: 4-flavors-of-cocky/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86496ec4-e487-4cc7-9c05-476dc6e0cc06.jpg)
+
 **Not all arrogance is the same.**
 
-> He got a big ego
-> 
-> Such a huge ego
-> 
-> I love his big ego
-> 
-> It's too much
-> 
-> He walk like this 'cause he can back it up
-> 
-> -Beyoncé Knowles, "Ego"
+He got a big ego  
+Such a huge ego  
+I love his big ego  
+It's too much  
+He walk like this 'cause he can back it up  
+-Beyoncé Knowles, "Ego"
 
 I'm not naming any names. Instead I'm just going to leave this here in case you happen to know someone who could benefit greatly if this article were to somehow show up in their newsfeed.
 
@@ -90,4 +87,3 @@ Underneath their cocky exteriors, these guys are some of the most humble, beauti
 And finally I want to talk about the self-help guy of the twenty-first century: the life-hackers, pick-up aficionados, flow junkies, do-it-yourselfers. These guys take on grand confidence as an x-game. Confidence is the decisive factor of success or failure in so many realms of life, and they see it as a brain hack, a life optimization. They're not hard to spot because you can sense the shakiness underneath their bravado. But I always root for them because, holy shit, they're really going for it. It's the very definition of ballsy. You can see them fall flat on their faces, learn, get back up, and try again. I always find them inspiring. If they can do it, I can do it.
 
 **Flavor number four --- life-hack bravado.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86496ec4-e487-4cc7-9c05-476dc6e0cc06.jpg)
