@@ -1,6 +1,6 @@
 name: Emotional Smoke Jumper
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.44054
 typography_spectrum: 0.61805
 title: Emotional Smoke Jumper
 cta:
@@ -23,7 +23,7 @@ color:
     - '#d47a57'
     - '#eeb182'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.4375
-  rhythmicContrast: 0.7983712300192565
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
